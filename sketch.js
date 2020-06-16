@@ -8,6 +8,6 @@ createCanvas(600,600);
 
 function draw(){
 
-
+ellipse(0,0,25);
 
 }
